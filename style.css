@@ -1,0 +1,67 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navbar */
+.navbar .navbar-brand {
+    font-family: Deadauthor;
+}
+
+/* End Navbar */
+
+
+
+/* Section Home */
+#home .home-name h1{
+    color: #1c3e70;
+}
+
+
+
+li,
+#home .tittle-contact .home-contact {
+    list-style-type: none;    
+}
+
+
+
+/* Section End Home */
+img,
+#design .asset-img {
+    width: 260px;
+    height: 350px;
+}
+
+
+/* Section Design */
+
+
+
+/* Section End Design */
+
+
+
+
+/* Section About */
+#about .about-pro img {
+    width: 280px;
+    height: 380px;
+    border-radius: 30px;
+}
+
+
+#about .about-me p {
+    text-align: justify;
+}
+
+
+/* Section End About */
+
+footer a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
